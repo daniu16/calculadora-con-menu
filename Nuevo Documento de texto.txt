@@ -1,6 +1,3 @@
-# calculadora-con-menu
-desarrollar una calculadora básica con menú en la clase de fundamentos
-
 # CALCULADORA BÁSICA CON MENU
 
 Una calculadora básica se puede realizar con condiciones.  Se desea realizar alguna de las operaciones básicas con dos números x, y.  Además se desea calcular la potencia y el logaritmo. Se deben de considerar los casos donde y=0, donde la división x/y no se puede realizar y cuando x <= 0 donde no se puede calcular el log(x).  Se desea generar un menú para que el usuario pueda seleccionar la operación a realizar.  Una manera de hacerlo es la siguiente:
